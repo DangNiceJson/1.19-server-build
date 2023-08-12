@@ -1,7 +1,9 @@
 # Project Lucifer's Full Server build
+
 - Console Xbox/Playstation
 - Chernarus
-- 
+
+ 
   (includes)
 - DayZ Expansion
 - Overgrown & Overhauled 
@@ -21,6 +23,8 @@
 - Bild Anywhere
 - Every Town Custom
 
+
+(How To Install)
 1. Download Zip
 2. Unzip File
 3. Upload All Files To Your Server
