@@ -28,4 +28,4 @@
 1. Download Zip
 2. Unzip File
 3. Upload All Files To Your Server
-4. Do Soft Wipe Tutorial Link Attached https://www.youtube.com/watch?v=1DuiQhO1AjU
+4. Do Soft Wipe Tutorial SKIP TO (m 02.50 s) Link Attached https://www.youtube.com/watch?v=1DuiQhO1AjU
